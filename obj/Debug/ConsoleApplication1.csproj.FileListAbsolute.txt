@@ -1,0 +1,14 @@
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Data.SQLite.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Data.SQLite.xml
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
